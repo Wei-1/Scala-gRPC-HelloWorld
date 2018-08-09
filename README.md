@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Wei-1/Scala-gRPC-HelloWorld.svg?branch=master)](https://travis-ci.org/Wei-1/Scala-gRPC-HelloWorld)
+
 [![License](https://img.shields.io/:license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Scala-gRPC-HelloWorld
@@ -46,7 +48,7 @@ I found that xuwei-k's example cannot be built alone and will need to have the [
 
 Also, his/her example doesn't follow the original build path `src`, which will cause some problems in my environment.
 
-Therefore, I search for a simplier solution and found the [gRPC example from btlines](https://github.com/btlines/grpcexample).
+Therefore, I search for a simpler solution and found the [gRPC example from btlines](https://github.com/btlines/grpcexample).
 
 btlines's example is very well written and support several different connection methods with easy and reliable control.
 
